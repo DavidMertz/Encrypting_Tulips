@@ -1,5 +1,7 @@
 .*
 ~*
+.~*
+*~lock*
 !.gitignore
 **/__pycache__/**
 **/*.tmp
